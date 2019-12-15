@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+img {
+    height: 40em;
+    width: 70em;
+    border-radius: 8px;
+}
+
+footer {
+    text-decoration: underline;
+}
